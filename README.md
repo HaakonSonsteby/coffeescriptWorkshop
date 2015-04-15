@@ -1,4 +1,4 @@
-# coffeescriptWorkshop
+# CoffeeScript workshop
 Sysco workshop 16.04.2015
 
 1) Clone repo
